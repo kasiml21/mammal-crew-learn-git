@@ -1,0 +1,48 @@
+---
+title: "forests"
+output: html_document
+date: "2023-10-09"
+---
+set things up
+```{r}
+rm(list = ls())
+library(ggplot2)
+library(dplyr)
+library(here)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+set things up
+```{r}
+rm(list = ls())
+library(ggplot2)
+library(dplyr)
+library(here)
+```
+
+
+
+
+
+
+
+
+
+
